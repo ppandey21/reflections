@@ -1,0 +1,29 @@
+Using diff or FC to compare differences between two files.
+linux or mac use -> diff -u file_old file_new
+windows use -> FC file_old file_new
+
+Git
+-git commit 
+create checkpoints in your project.
+it is to be done manually so that they are meaningful.
+-git log (--stat)
+see all the versions and a line denoting what was the changes made.
+-git diff commit_id1 commit_id2
+see the difference in code of the 2 commit ids.
+
+What is a git "repository"?
+collection of files that are interdependent
+multiple file commits can be done here
+
+-git checkout commitid 
+changes the git HEAD to the commitid code version
+
+-git init
+initializes a git repository
+-git status
+gives the status of current git repos
+
+-git add
+add files to staging area which are needed to be commited
+
+
