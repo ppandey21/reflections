@@ -15,4 +15,8 @@ git checkout master - to fix the head to most recent commits
 Branches
 git branch - shows different branches in your project
 git branch name_branch  - creates new branch which is named as name_branch
+ Branches can be helpful in doing experimental changes to codes, or adding new languages to present code.
+Master branch can be thought of as a production branch which is the correct branch and all other branches are experimental branches. We can merge these experimental branches to the Master when we find the experiments are working fine and are needed to be added to the production.
+Viewing the commit history
 
+the visual representation of the commit history is git log --graph --oneline branch1 branch2. 
