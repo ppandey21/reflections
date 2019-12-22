@@ -7,3 +7,8 @@ working directory - present directory where files are stored
 So
 There is a layer between working directory and local repository. It is called staging area. When you add your changed files using 'git add', the changes first gets stored in staging area for checking. Then you can use 'git commit' to further push your changes from staging area to local repo.
 
+git diff - see differences in working directory files and staging area files
+git diff --staged - see differences in staging area files and current repository commited HEAD files
+git reset --hard - reset all changes in staging area and working directory when the changes are not required.
+git checkout master - to fix the head to most recent commits
+
