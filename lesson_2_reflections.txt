@@ -1,0 +1,9 @@
+
+git init - initialize a repository
+git add - add files to staging area which are to be commited
+git status - check status of files in repository
+staging area - an intermediate area before and after commiting files
+working directory - present directory where files are stored
+So
+There is a layer between working directory and local repository. It is called staging area. When you add your changed files using 'git add', the changes first gets stored in staging area for checking. Then you can use 'git commit' to further push your changes from staging area to local repo.
+
