@@ -12,3 +12,7 @@ git diff --staged - see differences in staging area files and current repository
 git reset --hard - reset all changes in staging area and working directory when the changes are not required.
 git checkout master - to fix the head to most recent commits
 
+Branches
+git branch - shows different branches in your project
+git branch name_branch  - creates new branch which is named as name_branch
+
