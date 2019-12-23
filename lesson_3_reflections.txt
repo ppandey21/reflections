@@ -2,7 +2,7 @@ GITHUB
  $ git remote
  $ git remote add origin https://github.com/ppandey21/reflections.git
  $ git remote
-origin
+origin //origin is the name of the remote created
  $ git remote -v
 origin	https://github.com/ppandey21/reflections.git (fetch)
 origin	https://github.com/ppandey21/reflections.git (push)
@@ -18,4 +18,6 @@ remote: Resolving deltas: 100% (12/12), done.
 To https://github.com/ppandey21/reflections.git
  * [new branch]      master -> master
  
- 
+ //created new lesson3 reflection file and then pulling it to local from the remote
+  $ git pull origin master
+  
