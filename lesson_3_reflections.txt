@@ -28,4 +28,5 @@ Fast-forward
  1 file changed, 32 insertions(+)
  create mode 100644 lesson_3_reflections.txt
 
-
+FORKING A REPOSITORY
+fork someone's repository to your own
