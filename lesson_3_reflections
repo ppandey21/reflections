@@ -1,0 +1,5 @@
+GITHUB
+#git remote
+#git remote add origin https://github.com/ppandey21/reflections.git
+#git remove -v
+#git push origin master
