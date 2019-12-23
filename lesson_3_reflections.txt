@@ -104,3 +104,5 @@ master?  What benefits does each approach have?
     with just one or two other people.  When working with a large group, though,
     using branches to keep track of which changes have already been reviewed and
     approved is extremely helpful.
+
+merged common ancestors
