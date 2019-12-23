@@ -20,4 +20,13 @@ To https://github.com/ppandey21/reflections.git
  
  //created new lesson3 reflection file and then pulling it to local from the remote
   $ git pull origin master
-  
+  remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (7/7), done.
+From https://github.com/ppandey21/reflections
+ * branch            master     -> FETCH_HEAD
+   930a0fd..6a9f531  master     -> origin/master
+Updating 930a0fd..6a9f531
+
